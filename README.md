@@ -16,3 +16,4 @@ To get started, check out <http://vccw.cc/>
 
 * The `site.yml` has to be in the same directory with Vagrantfile.
 * You can put difference to the `site.yml`.
+# goteki_web
